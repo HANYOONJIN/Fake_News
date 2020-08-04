@@ -72,6 +72,3 @@ Rohit Kumar Kaliyar1, Anurag Goswami1, Pratik Narang2, Soumendu Sinha3
       |GloVe|CNN|90.74|92.07|91.40|91.50|
       |GloVe|LSTM|99.20|95.49|97.31|97.25|
       |**GloVe**|**Our Proposed model (FNDNet)**|**99.40**|**96.88**|**98.12**|**98.36**|
-
-
-  - **(검토자 의견) 논문 결과에 대한 객관성에 대한 검토의견** 
