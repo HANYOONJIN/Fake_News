@@ -65,3 +65,6 @@
 ![형분석기](https://user-images.githubusercontent.com/60456487/89919229-f6c98200-dc35-11ea-8f9a-be8019fec0f7.png)
    ###### 그림 출처 : [자연어 언어모델 'BERT'_04 한국어 BERT](https://blog.naver.com/jeanmy1102/221747257049)
 
+#
+
+[BERT 실습](https://www.tensorflow.org/official_models/fine_tuning_bert)
