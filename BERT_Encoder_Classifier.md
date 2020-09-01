@@ -4,7 +4,7 @@
 from transformers import BertForSequenceClassification
 
 (bert): BertModel(
-    (embeddings): BertEmbeddings(   <span style="color:red"><b>// BERT는 세 가지의 입력 벡터가 있어야 함</b></span>
+    (embeddings): BertEmbeddings(   <b>// BERT는 세 가지의 입력 벡터가 있어야 함</b>
       (word_embeddings): Embedding(119547, 768, padding_idx=0)   <b>// 단어 임베딩</b>
       (position_embeddings): Embedding(512, 768)   <b>// 단어의 위치 임베딩</b>
       (token_type_embeddings): Embedding(2, 768)   <b>// 어느 문장에 속하는 단어인지 타입 임베딩</b>
