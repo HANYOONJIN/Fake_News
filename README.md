@@ -7,3 +7,5 @@
 pooler
 
 cls의 
+
+[bert 단어 벡터/문장 벡터](https://colab.research.google.com/drive/1ZQvuAVwA3IjybezQOXnrXMGAnMyZRuPU#scrollTo=mQaco6jRLkXn)
