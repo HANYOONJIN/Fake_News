@@ -1,3 +1,3 @@
 # Fake_News
 
-데이터..수집중...
+https://factcheck.snu.ac.kr/v2/facts?page=8&topic_id=3
